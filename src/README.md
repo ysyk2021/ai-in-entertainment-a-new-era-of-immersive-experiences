@@ -1,4 +1,4 @@
-# Introduction
+
 
 Entertainment has always been about creating experiences that are engaging, captivating, and immersive. From films and television shows to video games and music, entertainment has the ability to transport us to new worlds, evoke emotions, and leave a lasting impact on our lives. As technology continues to evolve at a rapid pace, so too does the field of entertainment.
 

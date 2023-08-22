@@ -1,5 +1,4 @@
-Chapter 5: Using AI for More Engaging Gaming
-============================================
+
 
 AI is transforming the gaming industry by providing new ways to create engaging and immersive experiences. In this chapter, we will explore how AI can be used for more engaging gaming.
 

@@ -1,4 +1,4 @@
-# Types of AI Used in Entertainment
+
 
 AI technologies have significant potential for enhancing the entertainment industry by creating more engaging and immersive experiences for users while also improving efficiency and reducing costs. In this chapter, we will explore the types of AI used in entertainment.
 

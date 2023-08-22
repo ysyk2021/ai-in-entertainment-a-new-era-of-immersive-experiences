@@ -1,4 +1,4 @@
-# Overview of AI Applications for Visual Effects in Entertainment
+
 
 Artificial intelligence (AI) technologies have the potential to revolutionize visual effects in entertainment, creating more realistic and immersive experiences for users. In this chapter, we will provide an overview of AI applications for visual effects in entertainment.
 
