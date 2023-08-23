@@ -1,5 +1,4 @@
 
-
 AI is revolutionizing the entertainment industry by providing new ways to create immersive experiences. In this chapter, we will explore how AI can be used for more immersive storytelling.
 
 Overview of AI Applications for Storytelling in Entertainment

@@ -1,5 +1,4 @@
 
-
 As the entertainment industry increasingly adopts AI technologies, it's important to ensure that these technologies are used responsibly. In this chapter, we will explore the importance of developing governance frameworks to ensure responsible AI use in entertainment.
 
 Understanding AI Ethics and Governance

@@ -1,5 +1,4 @@
 
-
 AI is changing the way that entertainment content is delivered to consumers by providing new ways to create personalized experiences. In this chapter, we will explore how AI can be used for more personalized content delivery.
 
 Overview of AI Applications for Personalized Content Delivery in Entertainment

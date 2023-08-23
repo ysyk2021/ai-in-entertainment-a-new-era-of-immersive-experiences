@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technologies have the potential to revolutionize the entertainment industry by creating more engaging and immersive experiences for users while also improving efficiency and reducing costs. In this chapter, we will explore the definition of AI in entertainment, the types of AI used, and the benefits of AI for creating immersive experiences.
 
 Definition of AI in Entertainment

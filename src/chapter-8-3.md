@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technologies can enhance personalized content delivery in entertainment, creating more engaging and tailored experiences for users. In this chapter, we will explore case studies of successful AI implementations in personalized content delivery.
 
 Netflix's Recommendation Engine

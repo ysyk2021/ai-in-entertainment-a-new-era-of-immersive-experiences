@@ -1,5 +1,4 @@
 
-
 As the entertainment industry adopts AI technologies, it's important to consider legal and regulatory requirements to ensure responsible use. In this chapter, we will explore the legal and regulatory considerations for AI implementation in entertainment.
 
 Intellectual Property Rights

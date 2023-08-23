@@ -1,5 +1,4 @@
 
-
 As with any technology implementation, it's essential to measure the impact of AI in entertainment to identify areas for improvement and refinement. In this chapter, we will explore strategies for measuring the impact of AI in entertainment.
 
 Defining Success Metrics
