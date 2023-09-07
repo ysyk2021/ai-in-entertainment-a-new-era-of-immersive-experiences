@@ -8,3 +8,7 @@ In this book, we will explore the ways in which AI is transforming the world of 
 As AI technology continues to evolve, it is clear that its role in entertainment will only continue to grow. From virtual reality experiences to AI-generated music compositions, the possibilities for AI in entertainment are virtually limitless. This book will provide readers with a comprehensive understanding of how AI is changing the face of entertainment, and what the future holds for this exciting and rapidly evolving field.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
