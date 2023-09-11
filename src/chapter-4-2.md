@@ -1,5 +1,4 @@
-Chapter 5: Key Factors to Consider When Choosing AI Tools
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss the key factors that should be considered when choosing AI tools for implementing immersive experiences in entertainment. Selecting the right AI tools is crucial for ensuring successful integration and maximizing the potential of AI technologies.
 

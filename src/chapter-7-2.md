@@ -1,5 +1,4 @@
-Chapter 6: Best Practices for AI Implementation in CG Animation, Motion Capture, and Facial Recognition
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we outline best practices for implementing AI (Artificial Intelligence) in areas such as CG animation, motion capture, and facial recognition within the entertainment industry. These practices ensure that AI technologies are effectively utilized to enhance visual effects, character performances, and realistic facial animations.
 

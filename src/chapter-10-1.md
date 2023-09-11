@@ -1,5 +1,4 @@
-Chapter 6: Ethical Considerations for AI Implementation in Entertainment
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the ethical considerations that need to be taken into account when implementing AI (Artificial Intelligence) in entertainment for immersive experiences. Addressing ethical concerns ensures responsible use of AI technologies and promotes positive societal impact within the entertainment industry.
 

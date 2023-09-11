@@ -1,5 +1,4 @@
-Chapter 2: Benefits of AI for Creating Immersive Experiences
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the numerous benefits that AI (Artificial Intelligence) brings to the table when it comes to creating immersive experiences in entertainment. AI technologies enable new levels of creativity, personalization, interactivity, and efficiency, enhancing the overall immersive experience for users.
 

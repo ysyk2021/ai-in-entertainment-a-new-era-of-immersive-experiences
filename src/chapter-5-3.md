@@ -1,5 +1,4 @@
-Chapter 4: Case Studies of Successful AI Implementations in Immersive Storytelling
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine several case studies that showcase successful implementations of AI (Artificial Intelligence) in immersive storytelling within the entertainment industry. These examples demonstrate how AI technologies have revolutionized storytelling, creating captivating and interactive narrative experiences.
 

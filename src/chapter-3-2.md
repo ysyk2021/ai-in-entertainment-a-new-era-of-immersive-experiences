@@ -1,5 +1,4 @@
-Chapter 5: Evaluating Data Availability and Quality
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the importance of evaluating data availability and quality when implementing AI (Artificial Intelligence) in entertainment for immersive experiences. Assessing the availability and quality of data is crucial for training accurate and reliable AI models that can enhance storytelling and create immersive entertainment experiences.
 

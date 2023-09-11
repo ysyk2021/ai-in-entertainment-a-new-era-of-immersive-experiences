@@ -1,5 +1,4 @@
-Chapter 7: Case Studies of Successful AI Implementations in Realistic Visual Effects
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we examine several case studies that showcase successful implementations of AI (Artificial Intelligence) in creating realistic visual effects within the entertainment industry. These examples demonstrate how AI technologies have revolutionized the creation of immersive and visually stunning experiences.
 

@@ -1,5 +1,4 @@
-Chapter 2: Assessing Your Entertainment Needs and Goals
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the process of assessing your entertainment needs and goals when considering the implementation of AI (Artificial Intelligence) for immersive experiences. Understanding your specific requirements and objectives is crucial for effectively integrating AI technologies into the entertainment industry.
 

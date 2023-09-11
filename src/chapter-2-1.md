@@ -1,5 +1,4 @@
-Chapter 1: Definition of AI in Entertainment
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide a comprehensive definition of AI (Artificial Intelligence) in the context of entertainment. We explore how AI technologies are transforming the entertainment industry, enhancing creativity, personalization, and user engagement.
 

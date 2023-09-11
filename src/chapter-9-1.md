@@ -1,5 +1,4 @@
-Chapter 8: Assessing the Effectiveness of AI for Entertainment
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the methods and considerations for assessing the effectiveness of AI (Artificial Intelligence) in entertainment for immersive experiences. Evaluating the impact and performance of AI technologies is crucial for understanding their effectiveness and making informed decisions regarding their implementation.
 

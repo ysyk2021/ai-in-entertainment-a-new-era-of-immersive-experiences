@@ -1,5 +1,4 @@
-Chapter 9: Developing Governance Frameworks to Ensure Responsible AI Use
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the importance of developing governance frameworks to ensure responsible use of AI (Artificial Intelligence) in entertainment for immersive experiences. Establishing robust governance structures and guidelines is crucial for promoting ethical practices, accountability, and transparency throughout the AI implementation process.
 

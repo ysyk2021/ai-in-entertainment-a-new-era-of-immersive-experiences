@@ -1,5 +1,4 @@
-Chapter 3: Overview of AI Applications for Visual Effects in Entertainment
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the various AI (Artificial Intelligence) applications that have revolutionized visual effects in the entertainment industry. AI technologies have greatly enhanced the creation, rendering, and integration of visual effects, enabling immersive and visually stunning experiences for audiences.
 

@@ -1,5 +1,4 @@
-Chapter 8: Identifying Potential Implementation Challenges
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore potential implementation challenges that may arise when incorporating AI (Artificial Intelligence) in entertainment for immersive experiences. Understanding these challenges is crucial for successful integration and maximizing the benefits of AI technologies.
 

@@ -1,5 +1,4 @@
-Chapter 2: Overview of AI Tools and Technologies for Entertainment
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the various AI tools and technologies that are transforming the entertainment industry. These advancements have paved the way for new and immersive experiences, enhancing creativity, personalization, and engagement for both creators and consumers.
 

@@ -1,5 +1,4 @@
-Chapter 7: Legal and Regulatory Considerations for AI Implementation in Entertainment
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the legal and regulatory considerations that need to be taken into account when implementing AI (Artificial Intelligence) in entertainment for immersive experiences. Adhering to relevant laws and regulations is crucial to ensure ethical and responsible use of AI technologies in the entertainment industry.
 

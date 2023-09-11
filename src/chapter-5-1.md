@@ -1,5 +1,4 @@
-Chapter 4: Overview of AI Applications for Storytelling in Entertainment
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the various AI (Artificial Intelligence) applications that have transformed storytelling in the entertainment industry. From generating plotlines to enhancing narrative structures, AI technologies have opened up new possibilities for creating immersive and engaging storytelling experiences.
 

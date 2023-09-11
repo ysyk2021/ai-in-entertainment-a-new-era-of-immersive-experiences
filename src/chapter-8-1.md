@@ -1,5 +1,4 @@
-Chapter 4: Overview of AI Applications for Personalized Content Delivery in Entertainment
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the various AI (Artificial Intelligence) applications used for personalized content delivery in the entertainment industry. These AI technologies have transformed the way content is recommended, curated, and delivered to individuals, resulting in immersive and tailored entertainment experiences.
 

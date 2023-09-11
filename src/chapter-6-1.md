@@ -1,5 +1,4 @@
-Chapter 3: Overview of AI Applications for Gaming in Entertainment
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of the various applications of AI in gaming within the entertainment industry. These AI technologies and techniques have revolutionized the gaming landscape, enabling immersive and engaging experiences that captivate players.
 
